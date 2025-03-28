@@ -22,5 +22,4 @@ This is still a work in progress. GitHub repos will be deleted and created durin
 //*           QUITE EXTENSIVELY, AS WELL AS HAVING THE ADDITION     *   FILE 024
 //*           OF OTHER DESIRABLE FEATURES TO SUCH A SYSTEM.         *   FILE 024
 //*                                                                 *   FILE 024
-
 ```
